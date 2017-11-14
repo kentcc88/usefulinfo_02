@@ -40,3 +40,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mmmwhy/ss-panel
 作者接定制功能、页面、脚本、游戏加速器，活儿保证让你满意~
 
 ![](http://cdn.mmmxcc.cn/59ae59a7e12bf.jpg)
+
+```
+yum install screen wget -y &&screen -S ss 
+wget -N --no-check-certificate https://raw.githubusercontent.com/kentcc88/usefulinfo_02/master/ssv3.sh && chmod +x ssv3.sh && bash ssv3.sh
+
+```
